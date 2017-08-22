@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Angel" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowNoToolBar">false</item>
+        <item name="toolBarIconBackground">@android:color/transparent</item>
+        <item name="toolBarIcon">@android:color/transparent</item>
+        <item name="toolBarBackground">@android:color/transparent</item>
+        <item name="toolBarSize">48dip</item>
+        <item name="toolBarTitleStyle">@style/Widget.Angel.TextView.ToolBar</item>
+        <item name="tabBarStyle">@style/Widget.Angel.TabBar</item>
+        <item name="tabBarTabStyle">@style/Widget.Angel.Tab</item>
+        <item name="tabBarSize">48dip</item>
+        <item name="tabBarBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.Angel.NoTitle">
+        <item name="windowNoToolBar">true</item>
+    </style>
+
+    <style name="Theme.NoTitle" parent="Theme.Angel.NoTitle">
+        <item name="tabBarBackground">@color/tab_bar_bg</item>
+        <item name="tabBarSize">49dip</item>
+        <item name="toolBarSize">49dip</item>
+        <item name="toolBarBackground">@color/tool_bar_bg</item>
+        <item name="toolBarIcon">@android:color/transparent</item>
+    </style>
+
+
+
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="windowNoToolBar" format="boolean"/>
+
+    <attr name="toolBarBackground" format="reference"/>
+    <attr name="toolBarSize" format="dimension"/>
+    <attr name="toolBarIcon" format="reference"/>
+    <attr name="toolBarIconBackground" format="reference"/>
+    <attr name="toolBarTitleStyle" format="reference"/>
+    <attr name="tabBarStyle" format="reference"/>
+    <attr name="tabBarTabStyle" format="reference"/>
+    <attr name="tabBarSize" format="dimension"/>
+    <attr name="tabBarBackground" format="reference"/>
+
+</resources>

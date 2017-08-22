@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="tab_bar_wx"/>
+
+    <item type="id" name="tab_bar_note"/>
+
+    <item type="id" name="tab_bar_friends"/>
+
+    <item type="id" name="tab_bar_me"/>
+
+</resources>

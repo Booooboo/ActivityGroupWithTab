@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="wx">微信</string>
+    <string name="note">通讯录</string>
+    <string name="friends">发现</string>
+    <string name="me">我</string>
+
+</resources>

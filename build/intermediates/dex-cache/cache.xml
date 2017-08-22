@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/pre-dexed/debug/classes-fa9ce76cfbdb90768265be0d9cdb36be6cbc20e0.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/pre-dexed/debug/classes-3d78e422f9358c6da8b259b76c328899b8af902f.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/pre-dexed/debug/classes-b940969e7766e78f0cad8e1621c778ed29279856.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/pre-dexed/debug/classes-36b49b8145316ac207db23035a578163aa0fd5af.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/pre-dexed/debug/classes-a00ec64d8fec9a15d25cd7d0c2aa0ec25f0411a4.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/exploded-aar/ActivityGroupWithTab/ActivityGroupLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="78e3c98c09b380a3101661f00dd485acead2f233">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/pre-dexed/debug/classes-93dacdf7f794d9fccc52c68b421d9c2b017a5e63.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/pre-dexed/debug/classes-702c07bc97aa7d86e641f7dcb63fad68c7e876ae.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/pre-dexed/debug/classes-52d596b96eee032b83ad30088d8c10418927b533.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/pre-dexed/debug/classes-fbd942273135057c3dd986ae5a6fff2d0e25951b.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/pre-dexed/debug/classes-7573a59f91685b6ec9bdf722a6a0293cd1b37f53.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/exploded-aar/ActivityGroupWithTab1/ActivityGroupLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="01ac3b0dbae31367dcf648db7b3ff722ec6e4cff">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/pre-dexed/debug/classes-ffb98772da4189a803d71e238302fd2dfd531c6f.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/pre-dexed/debug/classes-b9ef3d7b3f373618efc91e195eda221cb9e45cbf.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/Common/android-sdks/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1-a34fe4c68d72019ed721178d430ab2583bc49c0d.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/pre-dexed/debug/classes-e1203e522902702c0f0cf45b7f7491e158bdfa19.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/pre-dexed/debug/classes-04a0e74a727fd30f709c85afb19907f3af4e254e.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/pre-dexed/debug/classes-05ed17b432659531c452d3e3af5a6c80ae4570df.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/pre-dexed/debug/classes-7a061f54add2abf50335695a79a3203ac3121c45.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/pre-dexed/debug/classes-d329134aa88a308f9b44a6e45c445372275b46ac.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab/app/build/intermediates/pre-dexed/debug/classes-f680082c4fdeb43780079a4dab1e528af5a10590.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/pre-dexed/debug/classes-c054bbb72366047e8010b25c43337960a625eadf.jar" />
+    </item>
+    <item
+        jar="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/sunhongbo/WorkShop/MyExercise/ActivityGroupWithTab1/app/build/intermediates/pre-dexed/debug/classes-fac991c47e9609ba79a00f75709439decdb6567f.jar" />
+    </item>
+
+</items>
