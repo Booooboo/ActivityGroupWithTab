@@ -6,7 +6,7 @@
         <item name="windowNoToolBar">false</item>
         <item name="toolBarIconBackground">@android:color/transparent</item>
         <item name="toolBarIcon">@android:color/transparent</item>
-        <item name="toolBarBackground">@android:color/transparent</item>
+        <item name="toolBarBackground">@color/tool_bar_bg</item>
         <item name="toolBarSize">48dip</item>
         <item name="toolBarTitleStyle">@style/Widget.Angel.TextView.ToolBar</item>
         <item name="tabBarStyle">@style/Widget.Angel.TabBar</item>
@@ -17,6 +17,7 @@
 
     <style name="Theme.Angel.NoTitle">
         <item name="windowNoToolBar">true</item>
+        <item name="windowActionBar">true</item>
     </style>
 
     <style name="Theme.NoTitle" parent="Theme.Angel.NoTitle">
